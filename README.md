@@ -180,8 +180,8 @@ I believe in building systems that bridge the gap between complex intelligence a
 <div align="center">
   <h3>🐍 Contribution Graph</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg?v=3">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg?v=3">
-    <img alt="github contribution grid snake animation" src="./assets/github-contribution-grid-snake-dark.svg?v=3">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg?v=4">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg?v=4">
+    <img alt="github contribution grid snake animation" src="./assets/github-contribution-grid-snake-dark.svg?v=4">
   </picture>
 </div>
