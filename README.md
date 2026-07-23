@@ -134,6 +134,14 @@ I believe in building systems that bridge the gap between complex intelligence a
 
 ---
 
+## 💻 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Gaminization?theme=dark&font=JetBrains%20Mono&bg=0D1117" alt="LeetCode Stats" width="90%" />
+</div>
+
+---
+
 ## 🏆 Detailed Logs
 
 <details>
