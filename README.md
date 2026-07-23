@@ -13,9 +13,9 @@
 ### 🖥️ System Info
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="neofetch.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="neofetch.svg" />
-    <img alt="System Info Neofetch" src="neofetch.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="neofetch.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="neofetch.svg?v=2" />
+    <img alt="System Info Neofetch" src="neofetch.svg?v=2" width="100%" />
   </picture>
 </div>
 
@@ -180,8 +180,8 @@ I believe in building systems that bridge the gap between complex intelligence a
 <div align="center">
   <h3>🐍 Contribution Graph</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="./assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg?v=2">
+    <img alt="github contribution grid snake animation" src="./assets/github-contribution-grid-snake-dark.svg?v=2">
   </picture>
 </div>
