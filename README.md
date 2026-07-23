@@ -1,9 +1,9 @@
 ### 🖥️ System Info
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="terminal-profile.svg?v=12" />
-    <source media="(prefers-color-scheme: light)" srcset="terminal-profile.svg?v=12" />
-    <img alt="System Info Neofetch" src="terminal-profile.svg?v=12" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="gaminization-neofetch.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="gaminization-neofetch.svg" />
+    <img alt="System Info Neofetch" src="gaminization-neofetch.svg" width="100%" />
   </picture>
 </div>
 
