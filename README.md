@@ -1,21 +1,9 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=>+.%2Fhello_world.sh+--user+%22Garv+Arora%22;>+Building+ARGUS-X...;>+Researcher+%40+Samsung+PRISM+%26+LGSI;>+TEDx+Speaker;>+R%26D+Lead+%40+SEDS+VIT" alt="Typing SVG" />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://garvarora.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaminization)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garvarora0205@gmail.com)
-
-</div>
-
----
-
 ### 🖥️ System Info
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="neofetch.svg?v=10" />
-    <source media="(prefers-color-scheme: light)" srcset="neofetch.svg?v=10" />
-    <img alt="System Info Neofetch" src="neofetch.svg?v=10" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="terminal-profile.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="terminal-profile.svg" />
+    <img alt="System Info Neofetch" src="terminal-profile.svg" width="100%" />
   </picture>
 </div>
 
