@@ -111,15 +111,6 @@ I believe in building systems that bridge the gap between complex intelligence a
 ## 📊 Live Telemetry
 
 <div align="center">
-  <h3>GitHub Streak</h3>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=gaminization&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="95%" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
   <table>
     <tr>
       <td width="50%" align="center">
@@ -129,15 +120,17 @@ I believe in building systems that bridge the gap between complex intelligence a
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaminization&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
       </td>
     </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=gaminization&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://leetcard.jacoblin.cool/Gaminization?theme=dark&font=JetBrains%20Mono&bg=0D1117" alt="LeetCode Stats" width="100%" />
+      </td>
+    </tr>
   </table>
-</div>
-
----
-
-## 💻 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Gaminization?theme=dark&font=JetBrains%20Mono&bg=0D1117" alt="LeetCode Stats" width="90%" />
 </div>
 
 ---
