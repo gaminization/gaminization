@@ -13,9 +13,9 @@
 ### 🖥️ System Info
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="neofetch.svg?v=3" />
-    <source media="(prefers-color-scheme: light)" srcset="neofetch.svg?v=3" />
-    <img alt="System Info Neofetch" src="neofetch.svg?v=3" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="neofetch.svg?v=6" />
+    <source media="(prefers-color-scheme: light)" srcset="neofetch.svg?v=6" />
+    <img alt="System Info Neofetch" src="neofetch.svg?v=6" width="100%" />
   </picture>
 </div>
 

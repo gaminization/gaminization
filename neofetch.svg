@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1100px" height="490px" viewBox="0 0 1100 490" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1450px" height="850px" viewBox="0 0 1450 850" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -13,38 +13,66 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1100px" height="490px" fill="#161b22" rx="15"/>
-<text x="30" y="50" fill="#c9d1d9" class="ascii">
-<tspan x="30" y="50">      .------------------------.      </tspan>
-<tspan x="30" y="70">      |                        |      </tspan>
-<tspan x="30" y="90">      |   >_ ARGUS-X System    |      </tspan>
-<tspan x="30" y="110">      |   [||||||||||||||] 99% |      </tspan>
-<tspan x="30" y="130">      |                        |      </tspan>
-<tspan x="30" y="150">      '------------------------'      </tspan>
-<tspan x="30" y="170">          |                |          </tspan>
-<tspan x="30" y="190">        __|________________|__        </tspan>
-<tspan x="30" y="210">       /                      \       </tspan>
-<tspan x="30" y="230">      /________________________\      </tspan>
+<rect width="1450px" height="850px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">                                 ░  ▒▒     ▒                               </tspan>
+<tspan x="15" y="50">                             ▒▒▓▓░░░▒░░▒▒▓▒▒ ▒▓   ░                        </tspan>
+<tspan x="15" y="70">                           ░▒░▒  ░░░░░░░▓░▒░░░░░░░▓▒                       </tspan>
+<tspan x="15" y="90">                        ▒▒▓░█▒░░  ░ ░░ ░░░░░     ░░░░▒░▒                   </tspan>
+<tspan x="15" y="110">                     ▒  ▒░▒ ░░░░    ░  ░░ ░ ▓░  ░  ▒ ▓░ ░                  </tspan>
+<tspan x="15" y="130">                    ▒ ░░░░░ ░░░   ░ ░░░░ ░░   ░ ▒▒ ░░░▒░░░░▒               </tspan>
+<tspan x="15" y="150">                      ░▓░ ░░  ░░░ ░░ ░░░░░░░░ ░░░░ ░░ ░░░▒▓▓               </tspan>
+<tspan x="15" y="170">                  ░ ░░▒  ▒░░░░░░░░░░  ░ ░ ░ ░░░░░░░░░ ░░▓░▓░░ ▒            </tspan>
+<tspan x="15" y="190">                   ░░░░  ░░░░  ░░░░ ░░░ ░░░     ░ ░░░ ░▒  ░ ▒ ░            </tspan>
+<tspan x="15" y="210">                   ▒░░░ ░   ░░░░ ░ ░░░░ ░░ ░ ░ ▓░░░░  ░░ ▒▒▒▒ ▒            </tspan>
+<tspan x="15" y="230">                  ░░ ░░░ ░  ░ ░▒ ░▒░░ ░ ░ ░ ░░ ░▒ ░░░░░░░░ ▒░░             </tspan>
+<tspan x="15" y="250">                ▒▒▒ ░░       ░ ░░ ░░▒▒░▒░░░░░    ░ ░  ░  ░ ░░▓             </tspan>
+<tspan x="15" y="270">                 ▒░░  ░ ░░░  ░ ░░ ░░░ ░   ░░░░ ░░░  ░░░ ░░   ▒▒            </tspan>
+<tspan x="15" y="290">                  ▒░▒ ░░░ ░█ ░   ░ ░ ░░░░░▒░░░░ ░ ░ ░░░ ░ ░▒░░             </tspan>
+<tspan x="15" y="310">                ▒▒░░░ ░  ░ █░░░░░░░ ░▒░▒█▓░░░░░░░░░░▓░ ░░ ░ ░░▒            </tspan>
+<tspan x="15" y="330">                  ░░░ ░░ ░░ ▒█▒░▓▓▒▓▓░▓███░▓▓▒▒▒▓▒▒▓  ░░  ░ ░░░            </tspan>
+<tspan x="15" y="350">                  ░░░ ░    ▒▓███▓▒▒▓░██████▒▓█▒▒▒█▓▒▒  ░ ░ ░ ░▒            </tspan>
+<tspan x="15" y="370">                   ░░░░ ░ ░░█████▒▓░█▓██████▓▓▓████▓▒ ░ ░░░░░░             </tspan>
+<tspan x="15" y="390">                    ▒░░ ░░▒▒▓▓▓█░░███▒▒░▒▒▒▓▓▓▓▓▓▓█▒ ░ ░░░ ░░              </tspan>
+<tspan x="15" y="410">                      ░░░  ░██▓▒░▒▒▓█▓▓░░░▓▓▓▒▒▒▒▓█▒░ ░░░░ ▒               </tspan>
+<tspan x="15" y="430">                       ░░░  ░█▓▒▒░▒░░░░░░░░░░░ ▒▓▓▓▓ ░░░░▒                 </tspan>
+<tspan x="15" y="450">                        ▒░  ░▓█▓▓▒█▓█▓█▒▓▓▓▓▓▓▓▒▒▓▓░  ░░░░                 </tspan>
+<tspan x="15" y="470">                        ▒░ ░░░▓▓▒▒▓▓▓▓▓▓▓▓▓▓▓▒▒▓▒▓░ ░░░░░▒                 </tspan>
+<tspan x="15" y="490">                         ▒░░  ▓▒▓▓▓█████████▓▒▒▒░░░ ░ ░░                   </tspan>
+<tspan x="15" y="510">                           ▒█ █▓▒▒▒▓█▒▒█▓▓▓▓▒▓░▒▒░░█░▓░▒                   </tspan>
+<tspan x="15" y="530">                   ██▓░█████░░█▓▓█░▒▒▒▒▒▒▒░▒░░▓▓▓ ░▒░▒                     </tspan>
+<tspan x="15" y="550">           █████████████████▒█▓▓▓▓░▒▒░░░░░░░░▒▒█▒░██▒▒█▓██▓                </tspan>
+<tspan x="15" y="570">      █████▓██████▓███▓█████▒▒▓▓██▓▒▓▒░░░░▒░▒▒▓█▒ ████▒█████████           </tspan>
+<tspan x="15" y="590">      ███▒████▓█▒███████████░▒▓▓▓▓▒▓▓▓▒▒▒▒▒▒▒▒▓▓░███████████████████▓      </tspan>
+<tspan x="15" y="610">        ██▓█░█████▓▓██████████▒▒▓▓▓▒▓▒▒▒▒░▒▒▒▓▒ █████▓█████████████ █      </tspan>
+<tspan x="15" y="630">        ██▒░▓████▒▒████████████░▒▓▒░▒░▒░░░░▒░░███████████████████▓         </tspan>
+<tspan x="15" y="650">           ███▓▓██░██▓███▒███████░░░░░ ░░░░████████▓█████████████          </tspan>
+<tspan x="15" y="670">             ▓███████████████████▓████████████▓██████████▓███  ▒           </tspan>
+<tspan x="15" y="690">                   █▓█▓████████████████████████████████████                </tspan>
+<tspan x="15" y="710">                █ ▓███▓████████████████████▓█████████▓  ▓██                </tspan>
+<tspan x="15" y="730">                    █░ █   █████████████████░█  ██████  ▒                  </tspan>
+<tspan x="15" y="750">                        █       ▓███  █████▒    █   █                      </tspan>
+<tspan x="15" y="770">                                       ▓█▒                                 </tspan>
 </text>
-<text x="330" y="30" fill="#c9d1d9">
-<tspan x="330" y="30">gaminization@github</tspan> -——————————————————————————————————————————-—-
-<tspan x="330" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Pop!_OS, Linux From Scratch</tspan>
-<tspan x="330" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Always building</tspan>
-<tspan x="330" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">VIT Vellore</tspan>
-<tspan x="330" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">B.Tech CSE (IoT)</tspan>
-<tspan x="330" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Neovim, VSCode</tspan>
-<tspan x="330" y="150" class="cc">. </tspan>
-<tspan x="330" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, C++, C, Java, Rust</tspan>
-<tspan x="330" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Bash, JavaScript, SQL, C#, HTML/CSS</tspan>
-<tspan x="330" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">English, Hindi, French, Japanese</tspan>
-<tspan x="330" y="230" class="cc">. </tspan>
-<tspan x="330" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Machine Learning, Local LLMs, CUDA</tspan>
-<tspan x="330" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">ROS2, ESP32, mmWave Radar, PCB Design</tspan>
-<tspan x="330" y="310">- Contact</tspan> -——————————————————————————————————————————-—-
-<tspan x="330" y="330" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">R&amp;D Lead @ SEDS VIT</tspan>
-<tspan x="330" y="350" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Researcher @ Samsung PRISM &amp; LGSI</tspan>
-<tspan x="330" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">garvarora0205@gmail.com</tspan>
-<tspan x="330" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">gaminization</tspan>
-<tspan x="330" y="410" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">https://garvarora.vercel.app</tspan>
+<text x="750" y="200" fill="#c9d1d9">
+<tspan x="750" y="200">gaminization@github</tspan> -——————————————————————————————————————————-—-
+<tspan x="750" y="220" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Pop!_OS, Linux From Scratch</tspan>
+<tspan x="750" y="240" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Always building</tspan>
+<tspan x="750" y="260" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">VIT Vellore</tspan>
+<tspan x="750" y="280" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">B.Tech CSE (IoT)</tspan>
+<tspan x="750" y="300" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Neovim, VSCode</tspan>
+<tspan x="750" y="320" class="cc">. </tspan>
+<tspan x="750" y="340" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, C++, C, Java, Rust</tspan>
+<tspan x="750" y="360" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Bash, JavaScript, SQL, C#, HTML/CSS</tspan>
+<tspan x="750" y="380" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">English, Hindi, French, Japanese</tspan>
+<tspan x="750" y="400" class="cc">. </tspan>
+<tspan x="750" y="420" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Machine Learning, Local LLMs, CUDA</tspan>
+<tspan x="750" y="440" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">ROS2, ESP32, mmWave Radar, PCB Design</tspan>
+<tspan x="750" y="480">- Contact</tspan> -——————————————————————————————————————————-—-
+<tspan x="750" y="500" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">R&amp;D Lead @ SEDS VIT</tspan>
+<tspan x="750" y="520" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Researcher @ Samsung PRISM &amp; LGSI</tspan>
+<tspan x="750" y="540" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">garvarora0205@gmail.com</tspan>
+<tspan x="750" y="560" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">gaminization</tspan>
+<tspan x="750" y="580" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">https://garvarora.vercel.app</tspan>
 </text>
 </svg>
