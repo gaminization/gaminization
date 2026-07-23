@@ -12,15 +12,15 @@
 
 ### 🖥️ System Info
 ```bash
-       o_______o       gaminization@github
-       | +   + |       -------------------
-    ---|   ^   |---    OS: Pop!_OS / Linux From Scratch
-       |  ---  |       Host: VIT Vellore
-       \_______/       Kernel: B.Tech CSE (IoT)
-        |     |        Uptime: Always building
-       /       \       Packages: ROS2, Gazebo, OpenCV, YOLOv8
-                       Shell: bash
-                       Role: R&D Lead @ SEDS VIT
+    .::::::::::::::::.       gaminization@github
+   ::::::::::::::::::::      -------------------
+  :::                :::     OS: Pop!_OS / Linux From Scratch
+  :::  >_            :::     Host: VIT Vellore
+  :::  building...   :::     Kernel: B.Tech CSE (IoT)
+  :::                :::     Uptime: Always building
+  ::::::::::::::::::::       Packages: ROS2, Gazebo, OpenCV, YOLOv8
+  ::::::::::::::::::::       Shell: bash
+  ====================       Role: R&D Lead @ SEDS VIT
 ```
 
 ---
