@@ -172,16 +172,7 @@ I believe in building systems that bridge the gap between complex intelligence a
 > **Note:** To activate your Spotify widgets, replace `YOUR_SPOTIFY_USER_ID` in the `README.md` code with your actual Spotify User ID.
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nisltvsnqy2tqioqx6m57pgtwi&count=5&width=500" alt="Recently Played" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nisltvsnqy2tqioqx6m57pgtwi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color_cover=true" alt="Now Playing" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nisltvsnqy2tqioqx6m57pgtwi&count=6&width=600" alt="Recently Played" />
 </div>
 
 ---
@@ -189,8 +180,8 @@ I believe in building systems that bridge the gap between complex intelligence a
 <div align="center">
   <h3>🐍 Contribution Graph</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaminization/gaminization/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaminization/gaminization/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gaminization/gaminization/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="./assets/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
