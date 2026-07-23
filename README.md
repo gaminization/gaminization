@@ -11,17 +11,13 @@
 ---
 
 ### 🖥️ System Info
-```bash
-    .::::::::::::::::.       gaminization@github
-   ::::::::::::::::::::      -------------------
-  :::                :::     OS: Pop!_OS / Linux From Scratch
-  :::  >_            :::     Host: VIT Vellore
-  :::  building...   :::     Kernel: B.Tech CSE (IoT)
-  :::                :::     Uptime: Always building
-  ::::::::::::::::::::       Packages: ROS2, Gazebo, OpenCV, YOLOv8
-  ::::::::::::::::::::       Shell: bash
-  ====================       Role: R&D Lead @ SEDS VIT
-```
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="neofetch.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="neofetch.svg" />
+    <img alt="System Info Neofetch" src="neofetch.svg" width="100%" />
+  </picture>
+</div>
 
 ---
 
