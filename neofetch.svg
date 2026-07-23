@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace" width="1150px" height="620px" viewBox="0 0 1150 620" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace" width="1150px" height="640px" viewBox="0 0 1150 640" font-size="16px">
 <style>
 .key {fill: #ffa657;}
 .value {fill: #a5d6ff;}
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1150px" height="620px" fill="#161b22" rx="15"/>
+<rect width="1150px" height="640px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii" xml:space="preserve">
 <tspan x="15" y="30">                                                        </tspan>
 <tspan x="15" y="50">                       ▒ ░▒ ▓▒▒▒ ▒▒▒                    </tspan>
@@ -38,25 +38,34 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="570">                █       █   █████                       </tspan>
 <tspan x="15" y="590">                              ▒                         </tspan>
 </text>
-<text x="590" y="90" fill="#c9d1d9" xml:space="preserve">
-<tspan x="590" y="90">gaminization@github</tspan> ------------------------------------------------
-<tspan x="590" y="110" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Pop!_OS, Linux From Scratch</tspan>
-<tspan x="590" y="130" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Always building</tspan>
-<tspan x="590" y="150" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">VIT Vellore</tspan>
-<tspan x="590" y="170" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">B.Tech CSE (IoT)</tspan>
-<tspan x="590" y="190" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Neovim, VSCode</tspan>
-<tspan x="590" y="210" class="cc">. </tspan>
-<tspan x="590" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, C++, C, Java, Rust</tspan>
-<tspan x="590" y="250" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Bash, JavaScript, SQL, C#, HTML/CSS</tspan>
-<tspan x="590" y="270" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">English, Hindi, French, Japanese</tspan>
-<tspan x="590" y="290" class="cc">. </tspan>
-<tspan x="590" y="310" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Machine Learning, Local LLMs, CUDA</tspan>
-<tspan x="590" y="330" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">ROS2, ESP32, mmWave Radar, PCB Design</tspan>
-<tspan x="590" y="370">- Contact</tspan> ----------------------------------------------------------
-<tspan x="590" y="390" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">R&amp;D Lead @ SEDS VIT</tspan>
-<tspan x="590" y="410" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Researcher @ Samsung PRISM &amp; LGSI</tspan>
-<tspan x="590" y="430" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">garvarora0205@gmail.com</tspan>
-<tspan x="590" y="450" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">gaminization</tspan>
-<tspan x="590" y="470" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">https://garvarora.vercel.app</tspan>
+<text x="590" y="30" fill="#c9d1d9" xml:space="preserve">
+<tspan x="590" y="30">gaminization@github</tspan> ------------------------------------------------
+<tspan x="590" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Pop!_OS, Linux From Scratch</tspan>
+<tspan x="590" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Always building</tspan>
+<tspan x="590" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">VIT Vellore, India</tspan>
+<tspan x="590" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">B.Tech CSE (IoT)</tspan>
+<tspan x="590" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Neovim, VSCode</tspan>
+<tspan x="590" y="150" class="cc">. </tspan>
+<tspan x="590" y="170" class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Python, C++, C, Java, Rust</tspan>
+<tspan x="590" y="190" class="cc">. </tspan><tspan class="key">Languages.Scripting</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Bash, JavaScript, HTML/CSS</tspan>
+<tspan x="590" y="210" class="cc">. </tspan><tspan class="key">Languages.Database</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">SQL, MongoDB, PostgreSQL</tspan>
+<tspan x="590" y="230" class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">English, Hindi, French, Japanese</tspan>
+<tspan x="590" y="250" class="cc">. </tspan>
+<tspan x="590" y="270" class="cc">. </tspan><tspan class="key">Tools.AI_Vision</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">OpenCV, YOLOv8, MediaPipe, CUDA</tspan>
+<tspan x="590" y="290" class="cc">. </tspan><tspan class="key">Tools.Robotics</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">ROS2, Nav2, Gazebo, Micro-ROS</tspan>
+<tspan x="590" y="310" class="cc">. </tspan><tspan class="key">Tools.Hardware</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">ESP32, Arduino, mmWave Radar</tspan>
+<tspan x="590" y="330" class="cc">. </tspan>
+<tspan x="590" y="350" class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Local LLMs, Autonomous Systems</tspan>
+<tspan x="590" y="370" class="cc">. </tspan><tspan class="key">Hobbies.Hardware</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">PCB Design, IoT, Drone Building</tspan>
+<tspan x="590" y="390" class="cc">. </tspan>
+<tspan x="590" y="410" class="cc">. </tspan><tspan class="key">Interests</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Open Source, Tech Communities, R&amp;D</tspan>
+<tspan x="590" y="430" class="cc">. </tspan>
+<tspan x="590" y="450">- Contact &amp; Socials </tspan>------------------------------------------
+<tspan x="590" y="470" class="cc">. </tspan><tspan class="key">Role (Lead)</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">R&amp;D Lead @ SEDS VIT</tspan>
+<tspan x="590" y="490" class="cc">. </tspan><tspan class="key">Role (Research)</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Researcher @ Samsung PRISM &amp; LGSI</tspan>
+<tspan x="590" y="510" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">garvarora0205@gmail.com</tspan>
+<tspan x="590" y="530" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">@gaminization</tspan>
+<tspan x="590" y="550" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">/in/gaminization</tspan>
+<tspan x="590" y="570" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">https://garvarora.vercel.app</tspan>
 </text>
 </svg>
