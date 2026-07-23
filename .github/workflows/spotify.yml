@@ -1,25 +1,29 @@
-name: Update Spotify Status
+name: Spotify Recently Played
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Runs every 5 minutes
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  update-spotify:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Update Spotify Status
-        uses: novatorem/novatorem@main
+      - uses: actions/checkout@v3
+      
+      - name: Generate Spotify SVG
+        uses: JeffreyCA/spotify-recently-played-readme@v1
         with:
           CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          # Ensures standard dark mode formatting
-          THEME: dark
+          theme: 'dark'
+          output_path: 'spotify.svg'
+          
+      - name: Commit to repository
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add spotify.svg
+          git commit -m "Update Spotify recently played" || exit 0
+          git push
