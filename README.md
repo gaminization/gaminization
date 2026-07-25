@@ -53,6 +53,8 @@
 
 # 👋 Hey, I'm Garv
 
+> *"With great power, comes great autonomous systems."* 🕸️
+
 I am an Autonomous Systems and Robotics Engineer currently pursuing my B.Tech in CSE (IoT) at VIT Vellore. My engineering focus lies at the intersection of embedded hardware, computer vision, and machine learning. 
 
 I am deeply involved in autonomous navigation systems, serving as the R&D Lead at SEDS VIT (Team Vyadh) where I architect ROS2 navigation stacks and CUDA-accelerated perception pipelines for Mars Rover platforms. Outside of my university work, I conduct advanced R&D as a researcher for Samsung PRISM and LG Soft India (LGSI), focusing on data excellence and embedded firmware for smart systems.
@@ -140,6 +142,7 @@ I believe in building systems that bridge the gap between complex intelligence a
     <li><b>Milestones</b>: Amazon ML Summer School 2026 (1 in 3000 selected), International Rover Challenge rankings: 13th (2025) and 17th (2026)</li>
     <li><b>Projects</b>: ARGUS-X, Sokobot</li>
     <li><b>Open Source PyPI Packages</b>: <a href="https://pypi.org/project/sort-tui/">sort-tui</a>, <a href="https://pypi.org/project/captivity-cli/">captivity-cli</a></li>
+    <li><b>Secret Identity</b>: 🤫 Your friendly neighborhood Spider-Man (don't tell J. Jonah Jameson) 🕸️🕷️</li>
   </ul>
 </details>
 
@@ -172,4 +175,10 @@ I believe in building systems that bridge the gap between complex intelligence a
     <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg?v=5">
     <img alt="github contribution grid snake animation" src="./assets/github-contribution-grid-snake-dark.svg?v=5">
   </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <sub><i>"My spider-sense is tingling..."</i> 🕷️</sub>
 </div>
